@@ -1,0 +1,15 @@
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.GraphQL.Client.deps.json
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.GraphQL.Client.dll
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.GraphQL.Client.pdb
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.Models.dll
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\bin\Debug\net8.0\Movies.Models.pdb
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.csproj.AssemblyReference.cache
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.AssemblyInfoInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.AssemblyInfo.cs
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.csproj.CoreCompileInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.G.EC8F8694.Up2Date
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.dll
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\refint\Movies.GraphQL.Client.dll
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\Movies.GraphQL.Client.pdb
+C:\Users\Premal Kadam\Documents\Learnings\GraphQL\Udemy Course\Movies.GraphQL.Client\obj\Debug\net8.0\ref\Movies.GraphQL.Client.dll

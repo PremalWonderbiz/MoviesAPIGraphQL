@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Movies.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "..\\Movies.Client.Console\\Movies.Client.Console.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
